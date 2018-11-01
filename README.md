@@ -234,3 +234,6 @@ curl -d "pairName=ESN/KRW" -H "Referer: https://www.bimax.io/trade?pairName=ESN/
     }
 }
 ```
+
+- 유의사항
+비공식 api 호출입니다. 바이맥스의 정책에 따라 사용이 불가능해질수도 있습니다.
